@@ -11,6 +11,10 @@ Demo web app to track stock data, store and do real time analytics using InfluxD
 
 ### Setup and Run
 
+1. Clone/Download this repository and `cd` into it.
+2. Open .env file and update it with your account information.
+3. Run the following commands.
+
 ```
 npm install
 npm run dev
